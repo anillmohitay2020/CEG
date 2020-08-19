@@ -1,0 +1,7 @@
+Student Details : 2020
+.......................
+
+Name : VIJAYKANTH V
+Rollno : 2019246046
+Dept : M.tech
+Branch : IT
